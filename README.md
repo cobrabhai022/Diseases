@@ -1,2 +1,0 @@
-# Diseases
-List o diseases 
